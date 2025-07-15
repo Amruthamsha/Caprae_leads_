@@ -45,7 +45,7 @@ Unlike traditional scrapers, SmartLeadGen goes beyond data collection—deliveri
 | Frontend    | React.js, Tailwind CSS                 |
 | Backend     | FastAPI or Flask                       |
 | Scraping    | BeautifulSoup, Playwright              |
-| AI/ML       | scikit-learn, Rule-based Logic         |
+| AI/ML       | scikit-learn, Rule-based Logic, Logistic Regression |
 | Database    | SQLite (dev), Firebase/PostgreSQL (prod) |
 | Integrations| Zapier, Clearbit, Hunter, Webhooks     |
 
