@@ -40,11 +40,14 @@ Unlike traditional scrapers, SmartLeadGen goes beyond data collection—deliveri
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React.js + Tailwind CSS
-- **Backend:** FastAPI / Flask
-- **Scraping:** BeautifulSoup, Playwright (optional for dynamic pages)
-- **AI/ML:** scikit-learn / Rule-based logic
-- **Extras:** SQLite for local save (or Firebase/PostgreSQL if deployed)
+| Layer       | Technology                            |
+|-------------|----------------------------------------|
+| Frontend    | React.js, Tailwind CSS                 |
+| Backend     | FastAPI or Flask                       |
+| Scraping    | BeautifulSoup, Playwright              |
+| AI/ML       | scikit-learn, Rule-based Logic         |
+| Database    | SQLite (dev), Firebase/PostgreSQL (prod) |
+| Integrations| Zapier, Clearbit, Hunter, Webhooks     |
 
 ---
 
